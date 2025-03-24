@@ -80,7 +80,6 @@
 
 ## 目录结构
 media_corpus_perception/  
-│
 ├── crawler_cls.py                # 新闻爬取模块  
 ├── hot_spot_detector.py          # 热度计算模块  
 ├── future_events_analysis.py    # 未来事件抽取模块  
